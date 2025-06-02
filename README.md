@@ -19,6 +19,6 @@
 <br/> 
 
 ### 🧊 Education
-- [멋쟁이사자처럼](https://likelion.net/school/kdt-backend-2nd) 2th BE ( 2023.09 - 2024.02 )
+- [멋쟁이사자처럼](https://likelion.net/school/kdt-backend-2nd) 2th BE ( 2022.09 - 2023.02 )
 
 <br/> 
