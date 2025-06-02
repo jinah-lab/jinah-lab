@@ -7,7 +7,7 @@
 
 ### 🧡 Work
 - [EZCOM INC.](https://www.ezcom.co.kr/) ( 2023.11 ~ )
-  - Cloud Architect (HPC · Multi-Cloud)
+  - Cloud Architect ( HPC · Multi-Cloud )
 
 
 <br/> 
