@@ -1,4 +1,4 @@
-from flask import Flask, render_template 
+from flask import Flask, render_template
 from redis import Redis
 import os,random
 
@@ -24,4 +24,4 @@ def index():
     return render_template('index.html', image_path=image_path, visit_count=count)
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8899)
+    app.run(host="0.0.0.0", port=8899) 
